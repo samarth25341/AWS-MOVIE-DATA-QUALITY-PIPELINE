@@ -107,3 +107,33 @@ Source: Kaggle Movie Dataset
 Format: CSV
 
 Storage: Amazon S3
+
+<img width="750" height="432" alt="image" src="https://github.com/user-attachments/assets/6c3de516-c50c-46a7-b998-e84d3dff278c" />
+
+<img width="836" height="423" alt="image" src="https://github.com/user-attachments/assets/5b29c13c-2aab-431d-b5a7-cfda966dfb92" />
+
+<img width="839" height="432" alt="image" src="https://github.com/user-attachments/assets/3c1fd7a5-f4a3-459e-b20c-a33f6d469e89" />
+
+<img width="838" height="431" alt="image" src="https://github.com/user-attachments/assets/fe90733b-3212-4ca9-954f-0add0e248cbd" />
+
+<img width="799" height="433" alt="image" src="https://github.com/user-attachments/assets/b5f0b8a6-ce7d-450c-8d38-97cd77075889" />
+
+<img width="534" height="503" alt="image" src="https://github.com/user-attachments/assets/64d13950-2389-486e-8028-a9b4cafdaf80" />
+
+<img width="645" height="489" alt="image" src="https://github.com/user-attachments/assets/bb9b7bdd-aa3f-4cf1-a742-53f4f575110d" />
+
+<img width="744" height="478" alt="image" src="https://github.com/user-attachments/assets/64743507-5f67-4b30-9fad-5ca8f3582647" />
+
+<img width="814" height="450" alt="image" src="https://github.com/user-attachments/assets/d4fc366c-36c4-4dd3-a410-d696fe35fe62" />
+
+<img width="820" height="441" alt="image" src="https://github.com/user-attachments/assets/62df02d6-8534-45a4-85b4-021d9bcc930b" />
+
+
+
+
+
+
+
+
+
+
